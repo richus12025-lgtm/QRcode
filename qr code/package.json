@@ -1,7 +1,7 @@
 {
-  "name": "qr-scanner-ads",
+  "name": "qr-scanner-backend",
   "version": "1.0.0",
-  "description": "QR Code Scanner with Ad Integration",
+  "description": "QR Scanner Backend with Ads API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
